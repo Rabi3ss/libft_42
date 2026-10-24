@@ -53,8 +53,7 @@ int main(void)
 ## Resources
 
 ### References
-- [man pages](https://man7.org/linux/man-pages/) — reference for every libc function re-coded
-- [GNU C Library Manual](https://www.gnu.org/software/libc/manual/)
+- [man pages](https://linux.die.net/man/)
 - [GNU Make Manual](https://www.gnu.org/software/make/manual/)
 - *The C Programming Language* — Brian W. Kernighan & Dennis M. Ritchie
 - 42 Norm (the coding standard provided by the curriculum)
@@ -64,5 +63,3 @@ AI (Claude) was used for the following tasks:
 - Explaining concepts (static libraries, `ar`, Makefile rules, linked lists)
 - Generating the structure of this README
 - [Other tasks, e.g. help understanding edge cases, test ideas]
-
-All the code was written, tested and understood by the project authors.
