@@ -59,7 +59,7 @@ int main(void)
 - 42 Norm (the coding standard provided by the curriculum)
 
 ### Use of AI
-AI (Claude) was used for the following tasks:
+AI (deepseek) was used for the following tasks:
 - Explaining concepts (static libraries, `ar`, Makefile rules, linked lists)
 - Generating the structure of this README
 - [Other tasks, e.g. help understanding edge cases, test ideas]
